@@ -3,4 +3,4 @@
 #Still a WIP<br>
 #Title: Why be Bored When You Can Binge?<br>
 #By: Devona Thomas-McClurkin (Freshman yr)<br>
-#Project video link: tba
+#Project video: https://youtu.be/7ySprlkIwK4?si=vcsKZ1v-Fgq60351
